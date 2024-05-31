@@ -1,0 +1,858 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.22.0" title="Shotcut version 23.11.29" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/funnel.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">287</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:43:18</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:caption">funnel.jpg</property>
+    <property name="shotcut:hash">03c39424643658b5f901e3d5af57ce71</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_five.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:31:33</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4a8d5839e3d487d7c8c76e4034f24859</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_four.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">382</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:30:40</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">27a8016013dd6870ccee5f9001fbe03d</property>
+    <property name="shotcut:caption">location_four.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_one.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:27:23</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bef3044ec8fe225c621bf6e0dec7349f</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_three.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">383</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:30:01</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a709585954d2283fde3608c13fb0771f</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_two.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:28:15</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">70cd6bee07ac6c29b498d1338c58ac7a</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/poutine_pic.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">386</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T20:34:17</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3a9a8f21e08470dc9ca11e4d5d29f487</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/burger.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">195</property>
+    <property name="meta.media.height">258</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T20:38:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c6cdc991d1cce0b838ae342c51bdf5c0</property>
+  </producer>
+  <chain id="chain0" out="00:01:58.720">
+    <property name="length">00:01:58.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/Downloads/Spring In My Step - Silent Partner.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">44100</property>
+    <property name="meta.media.0.codec.channels">2</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">128000</property>
+    <property name="meta.attr.0.stream.encoder.markup">Lavf</property>
+    <property name="meta.attr.title.markup">Spring In My Step</property>
+    <property name="meta.attr.artist.markup">Silent Partner</property>
+    <property name="meta.attr.album.markup">YouTube Audio Library</property>
+    <property name="meta.attr.genre.markup">Pop</property>
+    <property name="meta.attr.encoder.markup">Google</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2023-12-03T22:40:44</property>
+    <property name="astream">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b88f7cf7b1f47434851b2f4803283b1f</property>
+  </chain>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/ending.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">422</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T23:01:59</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">91ceeb80a9f46d9d98920a872b3829af</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 23.11.29">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain0" in="00:00:00.000" out="00:01:58.720"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:27.240">
+    <property name="length">00:00:27.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:27.240"/>
+  </playlist>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/poutine_pic.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">386</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T20:34:17</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3a9a8f21e08470dc9ca11e4d5d29f487</property>
+    <property name="shotcut:caption">poutine_pic.jpeg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter0" out="00:00:03.760">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">1</property>
+      <property name="transition.rect">1280.11 38.4514 736.909 1004.35 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter1" out="00:00:03.760">
+      <property name="start">1</property>
+      <property name="level">00:00:03.200=1;00:00:03.760=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.760"/>
+  </playlist>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/funnel.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">287</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:43:18</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:caption">funnel.jpg</property>
+    <property name="shotcut:hash">03c39424643658b5f901e3d5af57ce71</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter2" out="00:00:03.760">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">1.09759 36.8182 571.982 1016.41 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter3" out="00:00:03.760">
+      <property name="start">1</property>
+      <property name="level">00:00:03.200=1;00:00:03.760=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.760"/>
+  </playlist>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/burger.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">195</property>
+    <property name="meta.media.height">258</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T20:38:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c6cdc991d1cce0b838ae342c51bdf5c0</property>
+    <property name="shotcut:caption">burger.jpg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter4" out="00:00:03.760">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">544.657 -4.06044 816.279 1080 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter5" out="00:00:03.760">
+      <property name="argument"></property>
+      <property name="geometry">369 417 1096 288 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#ff000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:90pt; font-weight:700; color:#ffffff;&quot;&gt;Burger Factory Locations!!!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter6" out="00:00:03.760">
+      <property name="start">1</property>
+      <property name="level">00:00:03.200=1;00:00:03.760=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_one.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:27:23</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bef3044ec8fe225c621bf6e0dec7349f</property>
+    <property name="shotcut:caption">location_one.jpg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter7" in="00:00:02.480" out="00:00:06.400">
+      <property name="argument">276 Wharncliffe Rd N</property>
+      <property name="geometry">123 615 1706 391 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">50</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+      <property name="shotcut:pointSize">810</property>
+    </filter>
+    <filter id="filter8" in="00:00:02.480" out="00:00:06.400">
+      <property name="argument"></property>
+      <property name="geometry">192 108 1536 864 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Verdana'; font-size:72pt; font-weight:600; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter9" in="00:00:02.480" out="00:00:06.400">
+      <property name="start">1</property>
+      <property name="level">00:00:03.360=1;00:00:03.920=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+    <filter id="filter10" in="00:00:02.480" out="00:00:06.400">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.560=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.600</property>
+    </filter>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_two.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:28:15</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">70cd6bee07ac6c29b498d1338c58ac7a</property>
+    <property name="shotcut:caption">location_two.jpg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter11" out="00:00:04.680">
+      <property name="argument">580 Fanshawe Park Rd E</property>
+      <property name="geometry">39 784 1825 206 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">50</property>
+      <property name="opacity">1.0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">810</property>
+    </filter>
+    <filter id="filter12" out="00:00:04.680">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.920=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.960</property>
+    </filter>
+    <filter id="filter13" out="00:00:04.680">
+      <property name="start">1</property>
+      <property name="level">00:00:04.120=1;00:00:04.680=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_three.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">383</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:30:01</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a709585954d2283fde3608c13fb0771f</property>
+    <property name="shotcut:caption">location_three.jpg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter14" out="00:00:04.600">
+      <property name="argument">253 King St N Unit FC3</property>
+      <property name="geometry">39 794 1831 190 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">70</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">810</property>
+    </filter>
+    <filter id="filter15" out="00:00:04.600">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.560=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.600</property>
+    </filter>
+    <filter id="filter16" out="00:00:04.600">
+      <property name="start">1</property>
+      <property name="level">00:00:04.040=1;00:00:04.600=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/location_four.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">680</property>
+    <property name="meta.media.height">382</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T19:30:40</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">27a8016013dd6870ccee5f9001fbe03d</property>
+    <property name="shotcut:caption">location_four.jpg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter17" in="00:00:00.320" out="00:00:04.640">
+      <property name="argument">550 Hespeler Rd unit-2</property>
+      <property name="geometry">40 818 1848 173 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">50</property>
+      <property name="opacity">1.0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter18" in="00:00:00.320" out="00:00:04.640">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.560=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.600</property>
+    </filter>
+    <filter id="filter19" in="00:00:00.320" out="00:00:04.640">
+      <property name="start">1</property>
+      <property name="level">00:00:03.760=1;00:00:04.320=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/OneDrive/Desktop/major/images/ending.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">422</property>
+    <property name="meta.media.height">510</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-12-03T23:01:59</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">91ceeb80a9f46d9d98920a872b3829af</property>
+    <property name="shotcut:caption">ending.jpeg</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter20" out="00:00:04.800">
+      <property name="argument">kalamad</property>
+      <property name="geometry">1430 834 474 157 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">57</property>
+      <property name="opacity">1.0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+    </filter>
+    <filter id="filter21" out="00:00:04.800">
+      <property name="argument">Come Visit Us 
+Soon!!</property>
+      <property name="geometry">154 251 1658 595 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">540</property>
+      <property name="weight">700</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#b1000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter22" out="00:00:04.800">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.360=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.400</property>
+    </filter>
+    <filter id="filter23" out="00:00:04.800">
+      <property name="start">1</property>
+      <property name="level">00:00:03.840=1;00:00:04.800=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <property name="meta.shotcut.vui">1</property>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.760"/>
+    <entry producer="producer12" in="00:00:02.600" out="00:00:06.400"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:04.680"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:04.600"/>
+    <entry producer="producer15" in="00:00:00.320" out="00:00:04.640"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:04.800"/>
+    <filter id="filter24" out="00:00:27.240">
+      <property name="argument"></property>
+      <property name="geometry">192 108 1536 864 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Verdana'; font-size:72pt; font-weight:600; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </playlist>
+  <chain id="chain1" out="00:01:58.720">
+    <property name="length">00:01:58.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/karim/Downloads/Spring In My Step - Silent Partner.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">44100</property>
+    <property name="meta.media.0.codec.channels">2</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">128000</property>
+    <property name="meta.attr.0.stream.encoder.markup">Lavf</property>
+    <property name="meta.attr.title.markup">Spring In My Step</property>
+    <property name="meta.attr.artist.markup">Silent Partner</property>
+    <property name="meta.attr.album.markup">YouTube Audio Library</property>
+    <property name="meta.attr.genre.markup">Pop</property>
+    <property name="meta.attr.encoder.markup">Google</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2023-12-03T22:40:44</property>
+    <property name="astream">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b88f7cf7b1f47434851b2f4803283b1f</property>
+    <property name="shotcut:caption">Spring In My Step - Silent Partner.mp3</property>
+    <filter id="filter25" out="00:00:27.240">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:24.320=0;00:00:27.240=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:02.960</property>
+    </filter>
+  </chain>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:27.240"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 23.11.29" in="00:00:00.000" out="00:00:27.240">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">1.91662</property>
+    <property name="shotcut:skipConvert">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
