@@ -1,0 +1,14 @@
+<br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Access denied for user 'diegoba_user'@'localhost' to database 'diegoba_db' in /home/diegoba/public_html/wp-includes/wp-db.php:1084
+Stack trace:
+#0 /home/diegoba/public_html/wp-includes/wp-db.php(1084): mysqli_select_db(Object(mysqli), 'diegoba_db')
+#1 /home/diegoba/public_html/wp-includes/wp-db.php(1736): wpdb-&gt;select('diegoba_db', Object(mysqli))
+#2 /home/diegoba/public_html/wp-includes/wp-db.php(632): wpdb-&gt;db_connect()
+#3 /home/diegoba/public_html/wp-includes/load.php(558): wpdb-&gt;__construct('diegoba_user', 'EbzIedlOYSnU', 'diegoba_db', 'mysql2000.my-vi...')
+#4 /home/diegoba/public_html/wp-settings.php(124): require_wp_db()
+#5 /home/diegoba/public_html/wp-config.php(93): require_once('/home/diegoba/p...')
+#6 /home/diegoba/public_html/wp-load.php(50): require_once('/home/diegoba/p...')
+#7 /home/diegoba/public_html/wp-blog-header.php(13): require_once('/home/diegoba/p...')
+#8 /home/diegoba/public_html/index.php(17): require('/home/diegoba/p...')
+#9 {main}
+  thrown in <b>/home/diegoba/public_html/wp-includes/wp-db.php</b> on line <b>1084</b><br />
